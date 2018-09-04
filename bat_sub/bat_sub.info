@@ -8,6 +8,12 @@ core = 7.x
 engine = phptemplate
 base theme = bartik
 
+; This overrides the parent css/layout.css file.
+stylesheets[all][] = css/style.css
+
+; This would override script.js if it existed.
+scripts[] = script.js
+
 ; Regions aren't inherited, so this is copied over from Bartik.
 regions[header] = Header
 regions[help] = Help
