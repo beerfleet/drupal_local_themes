@@ -12,6 +12,7 @@ stylesheets[all][] = system.messages.css
 stylesheets[all][] = system.theme.css
 stylesheets[all][] = comment.css
 stylesheets[all][] = node.css
+stylesheets[all][] = css/styles.css
 
 regions[header]         = Header
 regions[navigation]     = Navigation bar

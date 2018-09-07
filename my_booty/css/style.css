@@ -1,0 +1,15 @@
+/**
+ * Place your custom styles here.
+ */
+
+.views-row {
+  width: 30%;
+  height: 230px;
+  float: right;
+  box-shadow: 1px 2px 6px #ccc;
+  padding: 10px;  
+}
+
+.view-front .text-center {
+  clear: both;
+}
