@@ -3,7 +3,7 @@
 
 ; Basic info. Note that the 'base theme' value is the name in the .info file, not the title.
 name = ** *** BAT SUB * ** ** 
-description = Example subtheme for Drupal 7
+description = Voorbeeld subtheme for Drupal 7
 core = 7.x
 engine = phptemplate
 base theme = bartik
