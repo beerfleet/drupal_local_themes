@@ -9,7 +9,8 @@ engine = phptemplate
 base theme = bartik
 
 ; This overrides the parent css/layout.css file.
-; stylesheets[all][] = css/layout.css
+stylesheets[all][] = css/layout.css
+stylesheets[all][] = css/style.css
 
 ; This would override script.js if it existed.
 scripts[] = script.js

@@ -123,7 +123,7 @@ table,
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #header {  
-  background: url('../../../sites/default/files/media/clouds-2.png') no-repeat !important;
+  background: url('../../../../default/files/media/clouds-2.png') no-repeat !important;
   background-size: 100% auto !important;
   background-position: bottom !important;
 }
@@ -915,9 +915,7 @@ ul.links {
 }
 #footer {
   letter-spacing: 0.2px;
-  margin-top: 30px;
-  border-top: 1px solid #555;
-  border-color: rgba(255, 255, 255, 0.15);
+  margin-top: 30px;  
 }
 #footer .region {
   margin-top: 20px;
@@ -953,7 +951,7 @@ ul.links {
   background-color: rgba(0, 0, 0, 0.15);
 }
 #footer-wrapper {
-  background: url('../../../sites/default/files/media/footer-bg.png') no-repeat !important;
+  background: url('../../../../default/files/media/footer-bg.png') no-repeat !important;
   background-size: 100% auto !important;
   background-position: bottom !important;
 }
